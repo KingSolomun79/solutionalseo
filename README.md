@@ -1,0 +1,2 @@
+# solutionalseo
+My awesome repository
